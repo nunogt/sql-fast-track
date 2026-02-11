@@ -92,8 +92,8 @@ Install [Docker Desktop](https://docs.docker.com/get-docker/), which includes Do
 
 ```bash
 # Clone the repo and enter the directory
-git clone <repo-url> sql-intro
-cd sql-intro
+git clone git@github.com:nunogt/sql-fast-track.git
+cd sql-fast-track
 
 # Start the PostgreSQL database (runs in the background)
 docker compose up -d
